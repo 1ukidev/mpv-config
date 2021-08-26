@@ -1,2 +1,2 @@
-# mpv-config
+# mpv configuration
 Personal configuration of mpv.
